@@ -1,4 +1,4 @@
 packages = ["pandas", "scikit-learn"]
 [[fetch]]
-from = 'https://raw.githubusercontent.com/Rohitcvs/loanPrediction/main/model.pkl'
+from = 'https://raw.githubusercontent.com/Rohitcvs/Loan-Prediction/main/model.pkl'
 name = "Loan Prediction"
